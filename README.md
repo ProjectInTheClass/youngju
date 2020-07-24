@@ -11,6 +11,7 @@ Persona
 <img src = "doc/image01.png" width="40%" heigh="30%">
 
 동영상 첨부
+# 시연 영상
 (doc/2020.07.24%20webtoon.mov)
 
 
