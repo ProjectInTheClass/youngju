@@ -14,6 +14,8 @@ Persona
 # 시연 영상
 (doc/2020.07.24%20webtoon.mov)
 
+https://github.com/ProjectInTheClass/youngju/blob/master/doc/2020.07.24%20webtoon.mov
+
 
 
 
