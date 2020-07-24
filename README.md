@@ -8,6 +8,6 @@ Persona
 
 프로토타입
 # 첫 화면
-# ![image1](./image/image1.png)
+![image1](./image/image1.png)
 
 
