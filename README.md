@@ -7,5 +7,5 @@ Persona
 # 취미가 웹툰보기인 두현
 
 프로토타입
-![image](./image/image1.png)
+![image](./image/image1.PNG)
 
