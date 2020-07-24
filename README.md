@@ -8,7 +8,7 @@ Persona
 
 프로토타입
 # 첫 화면
-![image1](./file:///Users/gw_14/Desktop/image/image01.png)
+![image1](https://github.com/ProjectInTheClass/youngju/blob/master/doc/image01.png)
 
 
 
