@@ -12,6 +12,7 @@ Persona
 
 동영상 첨부
 (doc/2020.07.24 webtoon.mov)
+https://github.com/ProjectInTheClass/youngju/blob/master/doc/2020.07.24%20webtoon.mov
 
 
 
