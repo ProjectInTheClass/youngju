@@ -8,7 +8,7 @@ Persona
 
 프로토타입
 # 첫 화면
-![image1](https://github.com/ProjectInTheClass/youngju/blob/master/doc/image01.png){: width="500" height="1050"}
+![image1](https://github.com/ProjectInTheClass/youngju/blob/master/doc/image01.png){: width="300" height="650"}
 
 
 
