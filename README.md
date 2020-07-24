@@ -8,8 +8,7 @@ Persona
 
 프로토타입
 # 첫 화면
-<img src = "doc/image01.png" width="50%" heigh="30%">
-![image1](https://github.com/ProjectInTheClass/youngju/blob/master/doc/image01.png)
+<img src = "doc/image01.png" width="40%" heigh="30%">
 
 동영상 첨부
 (doc/2020.07.24 webtoon.mov)
